@@ -1,0 +1,17 @@
+[
+  {"id":1,"name":"Alpha Tech","location":"Bengaluru","industry":"Software","employees":120,"website":"https://alpha.com"},
+  {"id":2,"name":"Green Foods","location":"Hyderabad","industry":"Food","employees":45,"website":"https://greenfoods.com"},
+  {"id":3,"name":"BuildWell","location":"Mumbai","industry":"Construction","employees":230,"website":"https://buildwell.com"},
+  {"id":4,"name":"BlueCom","location":"Chennai","industry":"Telecom","employees":95,"website":"https://bluecom.com"},
+  {"id":5,"name":"HealthBridge","location":"Pune","industry":"Healthcare","employees":310,"website":"https://healthbridge.com"},
+  {"id":6,"name":"EduCore","location":"Delhi","industry":"Education","employees":70,"website":"https://educore.com"},
+  {"id":7,"name":"AgroFarm","location":"Hyderabad","industry":"Agriculture","employees":150,"website":"https://agrofarm.com"},
+  {"id":8,"name":"UrbanBuild","location":"Bengaluru","industry":"Construction","employees":280,"website":"https://urbanbuild.com"},
+  {"id":9,"name":"BrightLabs","location":"Pune","industry":"Software","employees":60,"website":"https://brightlabs.com"},
+  {"id":10,"name":"FoodZone","location":"Chennai","industry":"Food","employees":90,"website":"https://foodzone.com"},
+  {"id":11,"name":"FinEdge","location":"Mumbai","industry":"Finance","employees":200,"website":"https://finedge.com"},
+  {"id":12,"name":"SunPower","location":"Ahmedabad","industry":"Energy","employees":420,"website":"https://sunpower.com"},
+  {"id":13,"name":"GeneWorks","location":"Bengaluru","industry":"Biotech","employees":75,"website":"https://geneworks.com"},
+  {"id":14,"name":"ShopLoop","location":"Delhi","industry":"E-commerce","employees":140,"website":"https://shoploop.com"},
+  {"id":15,"name":"ShipQuick","location":"Chennai","industry":"Logistics","employees":310,"website":"https://shipquick.com"}
+]
